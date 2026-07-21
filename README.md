@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm K. Lakshmi Prasanna
 
-<!--
-**Lakshmiprasannak12/Lakshmiprasannak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 B.Tech Graduate in Computer Science & Engineering
+- 🌱 Currently learning Python Full Stack Development
+- 💡 Interested in Web Development, Python and Data Science
+- 🎯 Looking for Software Developer opportunities
+- 📍 Andhra Pradesh, India
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Smart Study Planner
+- Blood Donation & Emergency Help App
+- Employee Salary Prediction
+- Student Management System (Coming Soon)
+
+## 📫 Connect with Me
+- LinkedIn:www.linkedin.com/in/k-lakshmi-prasanna
+
+- Email: kondisettiprasanna@gmail.com
+
+⭐ Thank you for visiting my profile!

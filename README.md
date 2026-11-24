@@ -18,7 +18,8 @@
 - Smart Study Planner
 - Blood Donation & Emergency Help App
 - Employee Salary Prediction
-- Student Management System (Coming Soon)
+- Student Management System
+- Deepfake Detection Using Vision Transformer
 
 ## 📫 Connect with Me
 - LinkedIn:www.linkedin.com/in/k-lakshmi-prasanna
